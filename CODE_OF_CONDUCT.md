@@ -6,7 +6,7 @@ A primary goal of IEEE PES VIT is to be inclusive to the largest number of contr
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in DSC-VIT to help us create safe and positive experiences for everyone.
+We invite all those who participate in IEE-PES VIT to help us create safe and positive experiences for everyone.
 
 ## Our Standards
 
@@ -28,7 +28,6 @@ Examples of unacceptable behavior by participants include:
 * Publishing others' private information, such as a physical or electronic
  address, without explicit permission
 * Sharing critical Pentest findings with public or putting in an issue
-* DOS Attack on any of our subdomain (subdomain.dscvit.com)
 * Continous load testing is strictly not allowed
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting
